@@ -1,1 +1,2 @@
 # 2d_game
+As seen in the Description of this repo, this was made using a tutorial on youtube found here https://www.youtube.com/c/CarlBirch/playlists - in the "How to Make a Game in C++ & SDL2 From Scratch!" The code is not mine but I did my best to understand the code without blindly copying it and made slight adjustments like in the input controls. The youtube channel did not finish the tutorial so it is not a complete game. I might use this as a template to build on later but for now I'm uploading this to save it and show that I have some experience with the SDL Library.
