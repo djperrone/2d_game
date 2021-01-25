@@ -1,0 +1,43 @@
+﻿  Collision.cpp
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\SpriteComponent.h(84,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\SpriteComponent.h(85,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\tileComponent.h(46,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\tileComponent.h(47,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\ColliderComponent.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\ColliderComponent.h(51,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\ColliderComponent.h(52,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ECS.cpp
+  Game.cpp
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\SpriteComponent.h(84,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\SpriteComponent.h(85,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\ColliderComponent.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\ColliderComponent.h(51,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\ColliderComponent.h(52,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\tileComponent.h(46,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\tileComponent.h(47,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\Game.cpp(131,66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\Game.cpp(132,66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\ECS.h(97,33): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\Game.cpp(71): message : see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,float,float,int,int,int>(float &&,float &&,int &&,int &&,int &&)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+  main.cpp
+  Map.cpp
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\SpriteComponent.h(84,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\SpriteComponent.h(85,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\ColliderComponent.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\ColliderComponent.h(51,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\ColliderComponent.h(52,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\tileComponent.h(46,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\ECS\tileComponent.h(47,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Dev\LetsMakeGames\GameEngine\GameEngine\Src\Map.cpp(27,7): warning C4101: 'tile': unreferenced local variable
+  TextureManager.cpp
+  Vector2D.cpp
+  Generating Code...
+  GameEngine.vcxproj -> D:\Dev\LetsMakeGames\GameEngine\Debug\GameEngine.exe
